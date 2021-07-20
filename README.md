@@ -1,4 +1,4 @@
-# A very basic single page app where I fetch JSON data
+# A basic single page app where I fetch JSON data
 
 # Getting Started with Create React App
 
