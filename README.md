@@ -1,3 +1,8 @@
+<<<<<<< HEAD
+=======
+# A basic single page app where I fetch JSON data
+
+>>>>>>> eae7894a434e03356d3f9955871e54d733b2f997
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
